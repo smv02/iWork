@@ -1,0 +1,11 @@
+body{
+    background-color: #353D40;
+    color: #D9D9D9;
+}
+.projects_box{
+    border: 2px solid #337AB7;
+    border-radius: 5px;
+    padding: 20px !important;
+    box-shadow: 0 0 3px 3px #242a2c;
+    padding-bottom: 30px !important;
+}

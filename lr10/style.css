@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.wrapper{
+    width: 800px;
+    margin: 50px auto;
+    font-size: 24px;
+    font-weight: 700;
+    text-align: center;
+}
+.block{
+    width: 290px;
+    height: 290px;
+    background-color: #4b4949;
+    margin: 0 auto;
+    padding: 11px 13px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+}
+.title-box{
+    width: 205px;
+    margin: 0 auto;
+}
+.sub-title{
+    font-weight: 400;
+}
+.user{
+    margin-bottom: 10px;
+}
+.generate{
+    margin: 20px 0 10px;
+    background-color: #02bb02;
+    padding: 30px 40px;
+    border-radius: 10px;
+}
